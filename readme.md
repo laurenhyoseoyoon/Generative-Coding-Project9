@@ -1,4 +1,5 @@
-# A9: Hand Tracking -> Under the approval of professor, I aimed to develop a face/emotion-tracking system. 
+# A9: Hand Tracking
+(NOTE: Under the approval of professor, I aimed to develop a face/emotion-tracking system.)
 
 ## Your name
 Lauren Hyoseo Yoon
