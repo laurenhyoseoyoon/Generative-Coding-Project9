@@ -6,7 +6,7 @@ Lauren Hyoseo Yoon
 
 
 ## Your link
-[my page](LINK)
+[LINK](https://laurenhyoseoyoon.github.io/Generative-Coding-Project9/)
 
 
 ## Describe the experience you designed
